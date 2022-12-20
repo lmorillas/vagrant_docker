@@ -1,2 +1,5 @@
-# vagrant_docker_nginx
-Ejemplo para clase
+# Vagrant Docker
+
+Ejemplos de contenedores Vagrant-Docker para clase
+
+Revisa las ramas
